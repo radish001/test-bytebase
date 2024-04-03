@@ -4,3 +4,4 @@ CREATE TABLE test_table1
     test_column INT,
     PRIMARY KEY (test_id)
 )
+
